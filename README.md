@@ -1,9 +1,14 @@
-# Entrega 2
+# Inteligencia Artificial Generación de Prompts
 
 ### Alumno: Thallys Gomes Leandro
 ### Curso: Inteligencia Artificial Generación de Prompts
 ### Comision: 84165
 ### Año: 2025
+
+## Entrega 2
+
+### Consigna: 
+#### Desarrollarás  una POC (proof of concept) que permita, a través de una jupyter notebook, mostrar una implementación utilizando las técnicas de Fast prompting para solucionar el problema seleccionado.
 
 > Usando Chat GPT probanos 2 prompts para conseguir una Fast prompting
 > En la primera, unicamente solitamos que se pusiera en el roll especifico y al consultar el Chat pasa la información solicitada y una brebe explicación sobre la consulta. 
