@@ -5,6 +5,25 @@
 ### Comision: 84165
 ### Año: 2025
 
+## Entrega 1
+#Idea:
+> Para el proyecto final, me gustaría crear un chatbot para auxiliar a identificar y presentar
+soluciones para problemas en mi trabajo.
+Actualmente trabajo en un equipo de Service Desk e tenemos una vasta documentación
+de problemas e paso a paso para solucionarlos pero tenemos algunos problemas.
+> 
+> 1 – Hay un número grande de procedimientos a seguir en las Bases de conocimiento, pero
+no todo es necesario para el problema en concreto, los analistas pierden mucho tiempo
+buscando cual información es relevante y cual no.
+> 
+> 2 – Las bases de conocimiento están todas en inglés y un gran porcentual del equipo no
+entiende ese idioma.
+
+> Ya intentamos diversas formas de organizar los archivos para tener a mano los casos mas
+comunes, pero siempre terminamos con documentos grandes y con información
+excedente para la mayoría de los casos pero que debe estar presentes por si algún
+analista se encuentra con un caso peculiar.
+
 ## Entrega 2
 
 ### Consigna: 
