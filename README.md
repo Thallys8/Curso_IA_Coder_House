@@ -10,11 +10,11 @@
 #### Prompt: 
 > Usted está en el roll de un biólogo experto, pasaré el nombre de algún ser vivo y me informarás a que reino pertenece.
 
-#### [Resultado] (https://github.com/Thallys8/Curso_IA_Coder_House/blob/main/Captura%20de%20Fast%20prompting%20-%20Teste%201.PNG)
+#### [Resultado](https://github.com/Thallys8/Curso_IA_Coder_House/blob/main/Captura%20de%20Fast%20prompting%20-%20Teste%201.PNG)
 
 > Al establecer que queríamos únicamente la respuesta, sin la descripción, el Chat nos responde concisamente, aun en los casos que hay divergencia, y solo nos da explicaciones caso la consulta no esté en el escopo de la respuesta. 
 
 #### Prompt: 
 > Usted está en el roll de un biólogo experto, pasaré el nombre de algún ser vivo y me informarás únicamente a que reino pertenece, sin descripciones.
 
-#### [Resultado] (https://github.com/Thallys8/Curso_IA_Coder_House/blob/main/Captura%20de%20Fast%20prompting%20-%20Teste%202.PNG)
+#### [Resultado](https://github.com/Thallys8/Curso_IA_Coder_House/blob/main/Captura%20de%20Fast%20prompting%20-%20Teste%202.PNG)
