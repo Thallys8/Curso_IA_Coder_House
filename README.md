@@ -6,7 +6,10 @@
 ### Año: 2025
 
 ## Entrega 1
-#Idea:
+### Consigna: 
+#### Deberás desarrollar y presentar tu propuesta para el Proyecto Final, en el cual seleccionarás una problemática de tu interés y desarrollarás una propuesta de solución vinculada a la generación de prompts. La propuesta debería ser factible de realizarse. Iimplementarás la generación de prompts en los dos modelos del curso (texto-texto y texto-imagen) .
+
+##### Idea:
 > Para el proyecto final, me gustaría crear un chatbot para auxiliar a identificar y presentar
 soluciones para problemas en mi trabajo.
 Actualmente trabajo en un equipo de Service Desk e tenemos una vasta documentación
