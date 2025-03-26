@@ -1,0 +1,13 @@
+Usando Chat GPT probanos 2 prompts para conseguir una Fast prompting
+En la primera, unicamente solitamos que se pusiera en el roll especifico y al consultar el Chat pasa la información solicitada y una brebe explicación sobre la consulta. 
+Prompt: Usted está en el roll de un biólogo experto.
+paceré el nombre de algún ser vivo y me informarás a que reino pertenece
+
+Resultado: 
+
+Al establecer que queríamos únicamente la respuesta, sin la descripción, el Chat nos responde concisamente, aun en los casos que hay divergencia, y solo nos da explicaciones caso la consulta no esté en el escopo de la respuesta. 
+
+Prompt: Usted está en el roll de un biólogo experto.
+paceré el nombre de algún ser vivo y me informarás únicamente a que reino pertenece, sin descripciones.
+
+Resultado: 
