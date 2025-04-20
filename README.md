@@ -5,47 +5,6 @@
 ### Comision: 84165
 ### Año: 2025
 
-## Entrega 1
-### Consigna: 
-#### Deberás desarrollar y presentar tu propuesta para el Proyecto Final, en el cual seleccionarás una problemática de tu interés y desarrollarás una propuesta de solución vinculada a la generación de prompts. La propuesta debería ser factible de realizarse. Iimplementarás la generación de prompts en los dos modelos del curso (texto-texto y texto-imagen) .
-
-##### Idea:
-> Para el proyecto final, me gustaría crear un chatbot para auxiliar a identificar y presentar
-soluciones para problemas en mi trabajo.
-Actualmente trabajo en un equipo de Service Desk e tenemos una vasta documentación
-de problemas e paso a paso para solucionarlos pero tenemos algunos problemas.
-> 
-> 1 – Hay un número grande de procedimientos a seguir en las Bases de conocimiento, pero
-no todo es necesario para el problema en concreto, los analistas pierden mucho tiempo
-buscando cual información es relevante y cual no.
-> 
-> 2 – Las bases de conocimiento están todas en inglés y un gran porcentual del equipo no
-entiende ese idioma.
-
-> Ya intentamos diversas formas de organizar los archivos para tener a mano los casos mas
-comunes, pero siempre terminamos con documentos grandes y con información
-excedente para la mayoría de los casos pero que debe estar presentes por si algún
-analista se encuentra con un caso peculiar.
-
-## Entrega 2
-
-### Consigna: 
-#### Desarrollarás  una POC (proof of concept) que permita, a través de una jupyter notebook, mostrar una implementación utilizando las técnicas de Fast prompting para solucionar el problema seleccionado.
-
-> Usando Chat GPT probanos 2 prompts para conseguir una Fast prompting
-En la primera, unicamente solitamos que se pusiera en el roll especifico y al consultar el Chat pasa la información solicitada y una brebe explicación sobre la consulta. 
-#### Prompt: 
-> Usted está en el roll de un biólogo experto, pasaré el nombre de algún ser vivo y me informarás a que reino pertenece.
-
-#### [Resultado](https://github.com/Thallys8/Curso_IA_Coder_House/blob/main/Captura%20de%20Fast%20prompting%20-%20Teste%201.PNG)
-
-> Al establecer que queríamos únicamente la respuesta, sin la descripción, el Chat nos responde concisamente, aun en los casos que hay divergencia, y solo nos da explicaciones caso la consulta no esté en el escopo de la respuesta. 
-
-#### Prompt: 
-> Usted está en el roll de un biólogo experto, pasaré el nombre de algún ser vivo y me informarás únicamente a que reino pertenece, sin descripciones.
-
-#### [Resultado](https://github.com/Thallys8/Curso_IA_Coder_House/blob/main/Captura%20de%20Fast%20prompting%20-%20Teste%202.PNG)
-
-
-#### Conclusión: 
-> Identificamos que para conseguir respuestas concisas es necesario que esto esté muy claro en el prompt, no solo el hecho designar un roll especifico, ya que por default el Chat está configurado para el rol de asistente, mas también definir los parámetros de la respuesta, si deseamos que nos explique y justifique su respuesta o so solamente deseamos que sea una respuesta objetiva. 
+## Proyecto Final
+Enlace de Colab:
+https://colab.research.google.com/drive/1bfzu8Q-B78g26DRoLSQDX9F2KQOIAx6O?usp=sharing
